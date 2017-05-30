@@ -1,2 +1,2 @@
 # HtmlScraping
-HTML Scraping Web Apllication Using Jsoup and SpringMVC 
+HTML Scraping Web Application Using Jsoup and SpringMVC 
