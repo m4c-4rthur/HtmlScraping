@@ -1,11 +1,11 @@
 # HtmlScraping
 HTML Scraping Web Application Using Jsoup and SpringMVC 
 
--Pre-requisites
-	-Maven 3.0.5
-	-Java IDE
-	-JDK 8
-	-Any Web container (Preferred Tomcat +7)
+- Pre-requisites
+		-Maven 3.0.5
+		-Java IDE
+		-JDK 8
+		-Any Web container (Preferred Tomcat +7)
 
 - Running Steps
 	- Run maven command "mvn clean install"
